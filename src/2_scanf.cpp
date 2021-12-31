@@ -8,7 +8,7 @@ int main()
     for (int i=0; i<n; i++){
         for(int j=0; j<m; j++)
         {
-            scanf("%1d",&a[i][j]);
+            scanf("%1d",&a[i][j]); // 1자리만 받기
         }
     }
     return 0;
