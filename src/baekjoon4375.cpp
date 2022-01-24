@@ -20,7 +20,7 @@ int main()
             }
             ret++;
             cnt=cnt*10+1;
-            cnt%=p;
+            cnt%=p; //speed modular 
         }
         
     }
